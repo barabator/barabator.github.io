@@ -1,4 +1,3 @@
 # barabator.github.io
 GitHub Web Pages
-##
-Frontend Preview
+## Frontend Preview
